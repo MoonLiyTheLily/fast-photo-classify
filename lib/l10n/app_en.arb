@@ -1,0 +1,457 @@
+{
+  "@@locale": "en",
+  "appName": "Fastphoto",
+  "@appName": {
+    "description": "Application name used for the app title and home app bar."
+  },
+  "tutorialTitle": "Organize photos in three steps",
+  "tutorialStep1": "1. Hold a photo and slide to select more. After releasing, tap the checkmark to change selection or tap a photo to preview it.",
+  "tutorialStep2": "2. Hold a selected photo, drag it to an album, and release. Scroll albums with another finger.",
+  "tutorialStep3": "3. Hold “Pending” or “Organized” to set your sources and targets. You choose which albums are organized. Plans are created only when you save them.",
+  "tutorialSaveFailed": "Could not save the tutorial preference.",
+  "startOrganizing": "Start organizing",
+  "newAlbum": "New album",
+  "albumName": "Album name",
+  "albumNameHint": "For example: Travel, Family, Inspiration",
+  "cancel": "Cancel",
+  "create": "Create",
+  "invalidAlbumName": "Enter a name without slashes or other special characters.",
+  "transferCancelled": "Cancelled. Unprocessed photos remain selected.",
+  "noPhotosChanged": "No photos were changed.",
+  "confirmSystemPrompt": "Confirm any system permission prompt to continue.",
+  "refreshPhotos": "Refresh photos",
+  "settings": "Settings",
+  "allPhotos": "All photos",
+  "pending": "Pending",
+  "organized": "Organized",
+  "album": "Albums",
+  "organizerTitle": "Scope & plans",
+  "exitAlbumBrowsing": "Exit album browsing",
+  "allSources": "All sources",
+  "allTargets": "All targets",
+  "limitedPhotos": "Only permitted photos are shown",
+  "adjustScope": "Adjust access",
+  "photosLoadIncomplete": "Could not load photos",
+  "retry": "Retry",
+  "permissionWelcome": "A place for every photo",
+  "permissionDescription": "Allow photo access to select photos and drag them into albums.\nPhotos are organized on your device.",
+  "allowPhotoAccess": "Allow photo access",
+  "grantInSettings": "Allow access in system settings",
+  "allOrganized": "Everything here is organized",
+  "noPhotos": "No photos here yet",
+  "noPhotosHint": "Take or import photos, then refresh.",
+  "filterEmptyHint": "Try another category or album.",
+  "exitSelection": "Exit selection",
+  "selectAll": "All",
+  "addToAlbum": "Add to album",
+  "releaseToAdd": "Release to add to album",
+  "browseAlbums": "Browse albums",
+  "targetAlbumsAndSort": "Targets & sorting",
+  "closeAlbums": "Close albums",
+  "dragScrollHint": "Scroll with another finger, or hold at the list edge",
+  "browseDragHint": "Tap to browse · Drag photos here to organize",
+  "noTargets": "No target albums available",
+  "adjustTargets": "Adjust targets and filters",
+  "newAlbumAfterRelease": "Release, then tap New album at the top right",
+  "settingsTitle": "Your preferences",
+  "closeSettings": "Close settings",
+  "appearance": "Appearance",
+  "systemTheme": "System",
+  "lightTheme": "Light",
+  "darkTheme": "Dark",
+  "trayDirection": "Album panel direction",
+  "bottom": "Bottom",
+  "top": "Top",
+  "left": "Left",
+  "right": "Right",
+  "groupByDate": "Group by date",
+  "groupByDateHint": "Keep photos from the same day together",
+  "showLocation": "Show photo location",
+  "showLocationHint": "Read coordinates stored in photos; live device location is not needed",
+  "locationPermissionDenied": "Photo location permission was not granted. You can still organize photos.",
+  "locationPermissionFailed": "Could not request location permission. Check system settings.",
+  "dropAction": "When adding to an album",
+  "move": "Move",
+  "copy": "Copy",
+  "copyDescription": "Keep the original and create a copy in the target album. Keeping location metadata depends on photo location permission.",
+  "moveDescription": "Move photos to the target album without making copies. The system may ask you to approve the move.",
+  "resolveAddress": "Look up place names online",
+  "resolveAddressHint": "Send coordinates to the system geocoding service, without uploading photos. Show coordinates if lookup fails.",
+  "organizerHint": "Source and target albums, rules, sorting, and saved plans",
+  "tutorial": "How to organize",
+  "gestureHint": "Hold an unselected photo and slide to select more. Tap the checkmark to change selection or tap a photo to preview. Hold selected photos to drag them into an album; use another finger to scroll albums.",
+  "photoAccess": "Photo access",
+  "photoAccessHint": "Choose which photos the app can access in system settings",
+  "openSettingsFailed": "Could not open system settings.",
+  "selected": "Selected",
+  "unselected": "Unselected",
+  "clear": "Clear",
+  "emptyAlbumSelection": "Tap an album below to select it.",
+  "allAlbumsSelected": "All albums are selected",
+  "unorganized": "Unorganized",
+  "organizeAll": "Mark all",
+  "unorganizeAll": "Clear rules",
+  "emptyClassification": "Albums start unorganized. Tap an album below to mark it.",
+  "allAlbumsOrganized": "All albums are organized",
+  "noMatchingAlbums": "No matching albums",
+  "internalStorage": "Internal storage",
+  "close": "Close",
+  "sortSmart": "Pinyin first",
+  "sortRecent": "Recent first",
+  "photoDetails": "Photo details",
+  "deselect": "Deselect",
+  "selectPhoto": "Select photo",
+  "previewHint": "Swipe up for details · Down to close · Pinch or double-tap to zoom",
+  "openMapFailed": "Could not open the map. Copy the coordinates into a map app.",
+  "photoLocation": "Photo location",
+  "enableLocationHint": "Enable “Show photo location” in settings to view it.",
+  "locationReadFailed": "Could not read location information.",
+  "noPhotoLocation": "This photo has no location information.",
+  "lookingUpAddress": "Looking up place name…",
+  "addressLookupFailed": "Place name unavailable. Showing coordinates instead.",
+  "amap": "Amap",
+  "googleMaps": "Google Maps",
+  "allAlbums": "All albums",
+  "saveOrganizingPlan": "Save organizing plan",
+  "planNameHint": "For example: Messaging photos",
+  "defaultPlan": "Default plan",
+  "invalidPlanName": "Enter a new, unique plan name.",
+  "saveAndApply": "Save & apply",
+  "targetFilter": "Target filters",
+  "hideTechnicalTargets": "Hide app package folders",
+  "planCreationHint": "Plans are created only when you save them.",
+  "defaultPlanLocked": "The default plan cannot be deleted",
+  "deletePlan": "Delete plan",
+  "saveCurrentScope": "Save scope",
+  "closeOrganizer": "Close scope settings",
+  "sourceAlbums": "Sources",
+  "targetAlbums": "Targets",
+  "classificationRules": "Rules",
+  "plans": "Plans",
+  "albumSearchHint": "Search unselected albums, paths, or pinyin",
+  "chooseSourcesAndTargets": "Choose source and target albums",
+  "savePlan": "Save plan",
+  "apply": "Apply",
+  "photoPermissionBusy": "A photo permission request is already in progress.",
+  "locationPermissionBusy": "A location permission request is already in progress.",
+  "nativeInvalidAlbumName": "Album names must contain 1–60 characters and cannot include slashes or other special characters.",
+  "mediaOperationFailed": "Could not complete the photo operation.",
+  "photoReadFailed": "Could not read photos.",
+  "invalidPhotoUri": "The photo address is invalid.",
+  "locationPermissionRequired": "Allow access to photo location metadata to view it.",
+  "photoLocationReadFailed": "Could not read location information from this photo.",
+  "photoUnavailable": "The photo no longer exists or access permission has changed.",
+  "cannotReadPhoto": "Could not read the photo.",
+  "transferBusy": "Photos are being organized. Please wait.",
+  "selectPhotosFirst": "Select photos first.",
+  "unsupportedDestination": "Target albums must be in Pictures or DCIM.",
+  "storageDisconnected": "The target storage device is not connected.",
+  "crossVolumeMoveUnsupported": "Moving between storage volumes is not supported. Switch to copying.",
+  "readFailed": "Could not read the photo.",
+  "copyFailed": "Could not copy the photo.",
+  "createDestinationFailed": "Could not create the destination photo.",
+  "writeDestinationFailed": "Could not write to the target album.",
+  "readOriginalFailed": "Could not read the original photo.",
+  "finishCopyFailed": "Could not finish copying.",
+  "movePermissionFailed": "Could not request permission to move photos.",
+  "systemMoveFailed": "The system did not complete the move.",
+  "moveFailed": "Could not move the photo.",
+  "operationIncomplete": "The operation was not completed.",
+  "operationRetry": "The operation was not completed. Refresh and try again.",
+  "settingsSaveFailed": "Could not save settings. Please try again.",
+  "settingsLoadFailed": "Could not load settings. Using defaults.",
+  "unspecifiedReason": "No reason was provided.",
+  "otherPhotos": "Other photos",
+  "unnamedAlbum": "Album",
+  "unnamedPlan": "Organizing plan",
+  "listSeparator": ", ",
+  "messageSeparator": "; ",
+  "allAlbumsSuffix": " (all albums)",
+  "albumCreated": "Created “{name}”. You can add photos now.",
+  "@albumCreated": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "movedPhotos": "{count, plural, =1{Moved 1 photo to “{album}”} other{Moved {count} photos to “{album}”}}",
+  "@movedPhotos": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "album": {
+        "type": "String"
+      }
+    }
+  },
+  "copiedPhotos": "{count, plural, =1{Copied 1 photo to “{album}”} other{Copied {count} photos to “{album}”}}",
+  "@copiedPhotos": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "album": {
+        "type": "String"
+      }
+    }
+  },
+  "skippedPhotos": "{count, plural, =1{1 photo is already in this album} other{{count} photos are already in this album}}",
+  "@skippedPhotos": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "failedPhotos": "{count, plural, =1{1 photo was not processed: {reason}} other{{count} photos were not processed: {reason}}}",
+  "@failedPhotos": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "movingPhotos": "{count, plural, =1{Moving 1 photo…} other{Moving {count} photos…}}",
+  "@movingPhotos": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "copyingPhotos": "{count, plural, =1{Copying 1 photo…} other{Copying {count} photos…}}",
+  "@copyingPhotos": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "photoSummary": "{total, plural, =1{1 photo} other{{total} photos}} · {pending} pending",
+  "@photoSummary": {
+    "placeholders": {
+      "total": {
+        "type": "int"
+      },
+      "pending": {
+        "type": "int"
+      }
+    }
+  },
+  "sourceCount": "{count, plural, =1{1 source album} other{{count} source albums}}",
+  "@sourceCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "targetCount": "{count, plural, =1{1 target album} other{{count} target albums}}",
+  "@targetCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "sourceCountShort": "{count, plural, =1{1 source} other{{count} sources}}",
+  "@sourceCountShort": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "targetCountShort": "{count, plural, =1{1 target} other{{count} targets}}",
+  "@targetCountShort": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "scopeHint": "{sources} → {targets} · Hold a category to adjust",
+  "@scopeHint": {
+    "placeholders": {
+      "sources": {
+        "type": "String"
+      },
+      "targets": {
+        "type": "String"
+      }
+    }
+  },
+  "photoCount": "{count, plural, =1{1 photo} other{{count} photos}}",
+  "@photoCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "photoCountFull": "{count, plural, =1{1 photo} other{{count} photos}}",
+  "@photoCountFull": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "selectedPhotoCount": "{count} selected",
+  "@selectedPhotoCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "selectedCopyHint": "{count} selected · Copy to target album",
+  "@selectedCopyHint": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "selectedMoveHint": "{count} selected · Move to target album",
+  "@selectedMoveHint": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "albumSemantics": "Album {name}, {count, plural, =1{1 photo} other{{count} photos}}",
+  "@albumSemantics": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "albumDensity": "Album grid · {count} per row",
+  "@albumDensity": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "photoDensity": "Photo grid · {count} per row",
+  "@photoDensity": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "columnCount": "{count} columns",
+  "@columnCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "privacyFooter": "{appName} 0.3 · Photos stay on your device",
+  "@privacyFooter": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "unavailableAlbum": "{path} · Unavailable",
+  "@unavailableAlbum": {
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "albumSelectionSemantics": "{name}, {state}, {path}",
+  "@albumSelectionSemantics": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "state": {
+        "type": "String"
+      },
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "photoSemantics": "{name}, {state}",
+  "@photoSemantics": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "state": {
+        "type": "String"
+      }
+    }
+  },
+  "photoInAlbum": "Already in {album}",
+  "@photoInAlbum": {
+    "placeholders": {
+      "album": {
+        "type": "String"
+      }
+    }
+  },
+  "photoInMultipleAlbums": "Already in {album} and other albums",
+  "@photoInMultipleAlbums": {
+    "placeholders": {
+      "album": {
+        "type": "String"
+      }
+    }
+  },
+  "deselectPhotoNamed": "Deselect {name}",
+  "@deselectPhotoNamed": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "selectPhotoNamed": "Select {name}",
+  "@selectPhotoNamed": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "copiedToAlbums": "Copied to: {albums}",
+  "@copiedToAlbums": {
+    "placeholders": {
+      "albums": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreTargets": "{count, plural, =1{Restore 1 hidden target} other{Restore {count} hidden targets}}",
+  "@restoreTargets": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "language": "Language",
+  "followSystemLanguage": "System",
+  "chineseLanguage": "中文",
+  "englishLanguage": "English"
+}
