@@ -1,3 +1,6 @@
+本项目不含有人工编写的代码。全部使用 GPT 6 Astra/6.1 Sol 完成。
+This project does not contain human-written code. It's entirely produced by GPT 6 Astra/6.1 Sol.
+
 # 速理 Fastphoto
 
 一款面向 Android 的本地照片整理应用，用滑动选择和拖放操作，把照片整理到手机上的真实相册目录。
